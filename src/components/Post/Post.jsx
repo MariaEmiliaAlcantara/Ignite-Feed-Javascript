@@ -34,6 +34,15 @@ export const Post = () => {
           <a href="#">#rocketseat</a>
         </p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe seu Feedback</strong>
+        <textarea placeholder="deixe um comentário" />
+
+        <footer>
+          <button type="submit">Publicar</button>
+        </footer>
+      </form>
     </article>
   );
 };
