@@ -3,7 +3,7 @@
 ## 📝 Descrição
 
 - Site desenvolvido durante o Projeto 01 do curso Ignite da [Rocket Seat](https://www.rocketseat.com.br/) na trilha de React JS. 
-- Projeto refatorado com TypeScript disponível em: [https://github.com/MariaEmiliaAlcantara/ignite-feed-typescript](https://github.com/MariaEmiliaAlcantara/ignite-feed-typescript)
+- Projeto refatorado com TypeScript disponível em: [https://github.com/MariaEmiliaAlcantara/Ignite-Feed-Typescript](https://github.com/MariaEmiliaAlcantara/Ignite-Feed-Typescript)
 
 ## ✨ Tecnologias
 
